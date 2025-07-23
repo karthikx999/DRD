@@ -1,4 +1,4 @@
-# DRD 
+# DRD
 
 ## 🚀 Overview
 
@@ -16,6 +16,9 @@ DRD is a full‑stack surveillance dashboard that streams live drone video using
 - **Frontend:** ReactJS, Axios, Bootstrap  
 - **Backend:** Python, Flask, OpenCV  
 - **Other:** REST APIs, MJPEG stream  
+
+
+
 
 ## ⚙️ Installation
 
