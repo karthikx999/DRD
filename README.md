@@ -1,4 +1,4 @@
-# DRD – Drone‑Based Surveillance Dashboard
+# DRD 
 
 ## 🚀 Overview
 
